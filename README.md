@@ -9,4 +9,4 @@ serwerowa aplikacji została napisana w języku Java z użyciem frameworka Sprin
 z kolei część użytkowa została napisana w języku Java Script z użyciem biblioteki
 React.
 
-Całkowitą dokumentacje projektu można znaleźć w folderze "Dokumentacja".
+Całkowitą dokumentacje projektu można znaleźć w folderze "Dokumentacja Pracy".
